@@ -1,0 +1,6 @@
+template-file-path: iam-user-creation.yaml
+parameters:
+  S3BucketRegion: us-west-2
+  Environment: dev
+  Password: ''
+tags: {}
